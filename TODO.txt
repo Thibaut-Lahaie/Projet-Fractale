@@ -1,9 +1,0 @@
-- commenter code mot fibo + algo tracage turtle
-- continuer rapport (ajouter explication des formules, particulierement pr cantor)
-- cantor -> PIL pour generer image
-- cantor -> sons
-- feuille de TD (1er exo : decouvrir le mot de fibonacci et intro fractale (def...) 
-                2eme exo : tracer fractale a l'aide de turtle et mot fibo // generer image a l'aide de fonctions fournies
-                3ème exo : set de cantor -> générer + image avec PIL + sons
-- RECHERCHES SUR MOT DE FIBO (quelle utilisation ? etc)
-             
